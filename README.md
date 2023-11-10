@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Olá, me chamo Philipe e tenho 19 anos. Sou desenvolvedor Full Stack e Busco minha primeira oportunidade para demonstrar as habilidades que desenvolvi em meu ambiente acadêmico e em meus projetos pessoais. Atualmente curso Sistemas para internet no IFRN, período 4/6, onde busco melhor orientação para um aprendizado mais proveitoso, além de constantes trabalhos em grupo. <br><br>Busco ser flexível e versátil, procuro ser adaptável em meus projetos, para cumprir tudo que foi planejado ou solicitado a fim de tornar uma experiência satisfast´</p>
+<p align="left">Olá, me chamo Philipe e tenho 19 anos. Sou desenvolvedor Full Stack e Busco minha primeira oportunidade para demonstrar as habilidades que desenvolvi em meu ambiente acadêmico e em meus projetos pessoais. Atualmente curso Sistemas para internet no IFRN, período 4/6, onde busco melhor orientação para um aprendizado mais proveitoso, além de constantes trabalhos em grupo. <br><br>Busco ser flexível e versátil, procuro ser adaptável em meus projetos, para cumprir tudo que foi planejado ou solicitado a fim de tornar uma experiência satisfastória, assim como o resultado.</p>
 
 ###
 
