@@ -40,7 +40,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer na min
 <br>
 <br>
 <table>
-  <tr> <br> 
+  <tr> 
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeMuzzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
