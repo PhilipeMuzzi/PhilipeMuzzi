@@ -22,7 +22,7 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer na min
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Django Version](https://img.shields.io/badge/Django-3.2-green.svg)](https://www.djangoproject.com/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
