@@ -6,7 +6,7 @@
 
 <p align="left"> 
   Atualmente sou do Rio Grande Do Norte, tenho 19 anos de idade e sou <strong>Desenvolvedor Full stack</strong>.
-
+  
 Sou Graduando em Sistemas para internet no Instituto Federal de Ciência e Tecnologia do Rio Grande Do Norte  (IFRN) no período 4/6, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou diariamente em busca de projetos em grupo com amigos, ou/e projetos pessoais que, alguns dos diversos são encontrados por aqui.😁
 
 Estou sempre em busca de desafios e oportunidades para aprender e crescer na minha área, me tornado assim um profissional cada vez mais completo. Se você estiver interessado em colaborar ou compartilhar ideias, entre em contato comigo. Adoro explorar maneiras de tornar o mundo digital um lugar melhor que faça contribuir para uma vida melhor.
