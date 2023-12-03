@@ -5,6 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
+
   Atualmente sou do Rio Grande Do Norte, tenho 19 anos de idade e sou <strong>Desenvolvedor Full stack</strong>.
   
 Sou Graduando em Sistemas para internet no Instituto Federal de Ciência e Tecnologia do Rio Grande Do Norte  (IFRN) no período 4/6, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou diariamente em busca de projetos em grupo com amigos, ou/e projetos pessoais que, alguns dos diversos são encontrados por aqui.😁
