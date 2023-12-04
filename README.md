@@ -2,18 +2,21 @@
 
 ## Olá! Meu nome é <span style="color: #FF4500; font-weight: bold;">Philipe</span>! 👋 
 
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="Ilustração animada de código em execução" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Ilustração animada de código em execução" min-width="400px" max-width="400px" width="400px" align="right">
 
 
 <p align="left"> 
 <br>
   Atualmente sou do <span style="color: #FF4500; font-size: 18px;">Rio Grande Do Norte</span>, tenho <span style="color: #FF4500; font-size: 18px;">19 anos</span> de idade e sou <span style="color: #FF4500; font-size: 18px; font-weight: bold;">Desenvolvedor Full stack</span>.
   
-  Sou Graduando em <span style="color: #FF4500; font-size: 18px;">Sistemas para Internet</span> no <span style="color: #FF4500; font-size: 18px;">Instituto Federal de Ciência e Tecnologia do Rio Grande Do Norte (IFRN)</span> no período 4/6, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou diariamente em busca de projetos em grupo com amigos, ou/e projetos pessoais que, alguns dos diversos são encontrados por aqui. 😁
+  Sou Graduando em <span style="color: #FF4500; font-size: 18px;">Sistemas para Internet</span> no <span style="color: #FF4500; font-size: 18px;">Instituto Federal de Ciência <br> e Tecnologia do Rio Grande Do Norte (IFRN)</span> no período 4/6, e atualmente <br> estou empenhado em aprimorar minhas habilidades como desenvolvedor. <br> Estou diariamente em busca de projetos em grupo com amigos, ou/e projetos pessoais que, alguns dos diversos são encontrados por aqui. 😁
 
+<br>
   Estou sempre em busca de desafios e oportunidades para aprender e crescer na minha área, me tornando assim um profissional cada vez mais completo. 
-  <br> Se você estiver interessado em colaborar ou compartilhar ideias, entre em contato comigo. 
-  <br> Adoro explorar maneiras de tornar o mundo digital um lugar melhor, contribuindo para uma vida melhor.
+  <br> Se você estiver interessado em colaborar ou compartilhar ideias, <br> entre em contato comigo. 
+
+  <br>
+  <br> Adoro explorar maneiras de tornar o mundo digital um lugar melhor, <br> contribuindo para uma vida melhor.
 
 </p>
 
