@@ -21,12 +21,20 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer na min
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-[![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Python](https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+<h2 align="left">
+ 🚀 Tecnologias que estou aprendendo:
+</h2>
+
+[![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+
 
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
@@ -43,20 +51,14 @@ Estou sempre em busca de desafios e oportunidades para aprender e crescer na min
 <br>
 <br>
 <table>
-  <tr> 
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipeMuzzi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=PhilipeMuzzi&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
+
+
+
+    
+  | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilipeMuzzi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilipeMuzzi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilipeMuzzi&theme=nord_dark) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PhilipeMuzzi&theme=nord_dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=PhilipeMuzzi&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
   </tr>
 </table>
