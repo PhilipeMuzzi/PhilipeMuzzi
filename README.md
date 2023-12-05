@@ -1,7 +1,7 @@
 
-
+[![Linha](assets/line.png)]
 [![Meu Banner](assets/PHILIPE-MUZZI.png)]
-
+[![Linha](assets/line.png)]
 
 <p align="left"> 
 
@@ -18,7 +18,7 @@
 
 </p>
 
-
+[![Linha](assets/line.png)]
 
 <h2 align="left">
  🦄 Tecnologias:
