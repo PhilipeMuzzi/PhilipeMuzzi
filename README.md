@@ -1,8 +1,8 @@
 
 
 <div align="center">
-    <img src="assets/line.png" alt="Linha Separadora" width="800"/>
-  <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="400"/>
+   
+  <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="300"/>
   
 </div>
 
@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> 
+<p align="center"> 
 
   Atualmente sou do <span style="color: #FF4500; font-size: 18px;">Rio Grande Do Norte</span>, tenho <span style="color: #FF4500; font-size: 18px;">19 anos</span> de idade e sou <span style="color: #FF4500; font-size: 18px; font-weight: bold;">Desenvolvedor Full stack</span>.
   
@@ -28,7 +28,7 @@
 
 ![Linha](assets/line.png)
 
-<h2 align="left">
+<h2 align="center">
  🦄 Tecnologias:
 </h2>
 
@@ -42,9 +42,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Stlyed Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-<h2 align="left">
+
+<h2 align="center">
  🚀 Tecnologias que estou aprendendo:
 </h2>
+
 
 [![Pandas](https://img.shields.io/badge/Pandas-blue?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-green.svg?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -52,10 +54,9 @@
 [![Flutter](https://img.shields.io/badge/Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 
 
-<p align="left">
+<p/>
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
-
 <a href="https://www.linkedin.com/in/PhilipeMuzzi/" title="LinkedIn" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
@@ -69,7 +70,7 @@
 <table>
 
 
-
+  <img src="assets/line.png" alt="Linha Separadora"/>
     
   | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PhilipeMuzzi&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PhilipeMuzzi&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PhilipeMuzzi&theme=nord_dark) |
 | :-: | :-: | :-: |
