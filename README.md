@@ -1,12 +1,10 @@
 
 <div align="center">
    
-<<<<<<< HEAD
+
   <img src="assets/welcome.png" alt="Meu Banner" height="300"/>
-=======
-  <img src="assets/icone.png" alt="Meu Banner" height="300"/>
->>>>>>> f8f5a6de1b7da228abbc58c795cc0c3f3bcc3114
-  
+
+
 </div>
 
 
