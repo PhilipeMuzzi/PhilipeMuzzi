@@ -1,7 +1,13 @@
 
-[![Linha](assets/line.png)]
-[![Meu Banner](assets/PHILIPE-MUZZI.png)]
-[![Linha](assets/line.png)]
+![Linha](assets/line.png)
+
+<div align="center">
+  <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="420"/>
+</div>
+
+
+
+
 
 <p align="left"> 
 
@@ -18,7 +24,7 @@
 
 </p>
 
-[![Linha](assets/line.png)]
+![Linha](assets/line.png)
 
 <h2 align="left">
  🦄 Tecnologias:
