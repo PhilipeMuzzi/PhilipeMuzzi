@@ -1,6 +1,6 @@
 
 
-[![Meu Banner](assets/PHILIPEMUZZI.png)]
+[![Meu Banner](assets/PHILIPE-MUZZI.png)]
 
 
 <p align="left"> 
