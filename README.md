@@ -1,9 +1,6 @@
 
 
-## Olá! Meu nome é <span style="color: #FF4500; font-weight: bold;">Philipe</span>! 👋 
-
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Ilustração animada de código em execução" style="border-radius: 50%;" width="400px" align="right">
-
+[![Meu Banner](assets/PHILIPEMUZZI.png)]
 
 
 <p align="left"> 
