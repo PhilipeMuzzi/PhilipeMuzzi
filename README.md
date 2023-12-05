@@ -1,8 +1,7 @@
 
-
 <div align="center">
    
-  <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="300"/>
+  <img src="assets/icone.png" alt="Meu Banner" height="300"/>
   
 </div>
 
