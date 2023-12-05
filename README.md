@@ -3,7 +3,7 @@
 <div align="center">
     <img src="assets/line.png" alt="Linha Separadora" width="800"/>
   <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="400"/>
-    <img src="assets/line.png" alt="Linha Separadora" width="800"/>
+  
 </div>
 
 
