@@ -2,11 +2,9 @@
 
 <div align="center">
    
-  <img src="assets/PHILIPE-MUZZI.png" alt="Meu Banner" height="300"/>
+  <img src="assets/welcome.png" alt="Meu Banner" height="300"/>
   
 </div>
-
-
 
 
 
