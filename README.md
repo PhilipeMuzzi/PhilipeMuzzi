@@ -4,7 +4,6 @@
 
   <img src="assets/welcome.png" alt="Meu Banner" height="300"/>
 
-
 </div>
 
 
