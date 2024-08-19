@@ -11,7 +11,7 @@
 
 <p align="center"> 
 
-  Atualmente sou do <span style="color: #FF4500; font-size: 18px;">Rio Grande Do Norte</span>, tenho <span style="color: #FF4500; font-size: 18px;">19 anos</span> de idade e sou <span style="color: #FF4500; font-size: 18px; font-weight: bold;">Desenvolvedor Full stack</span>.
+  Atualmente sou do <span style="color: #FF4500; font-size: 18px;">Rio Grande Do Norte</span>, tenho <span style="color: #FF4500; font-size: 18px;">20 anos</span> de idade e sou <span style="color: #FF4500; font-size: 18px; font-weight: bold;">Desenvolvedor Full stack</span>.
   
   Sou Graduando em <span style="color: #FF4500; font-size: 18px;">Sistemas para Internet</span> no <span style="color: #FF4500; font-size: 18px;">Instituto Federal de Ciência e Tecnologia do Rio Grande Do Norte (IFRN)</span> no período 4/6, e atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor. Estou diariamente em busca de projetos em grupo com amigos, ou/e projetos pessoais que, alguns dos diversos são encontrados por aqui. 😁
 
